@@ -2,7 +2,6 @@ package gui_swing_events;
 
 import javax.swing.*;
 import java.awt.event.*;
-import java.util.EventListener;
 import java.awt.Color;
 import java.awt.GridLayout;
 
